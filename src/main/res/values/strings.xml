@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Japanese Study Game</string>
+    <string name="app_title">日本語学習ゲーム</string>
+    <string name="app_subtitle">Learn Japanese with fun games!</string>
+    <string name="app_footer">© 2025 Japanese Study Game</string>
+    <string name="hiragana_game">Hiragana Game</string>
+    <string name="katakana_game">Katakana Game</string>
+    <string name="kanji_game">Kanji Game</string>
+    <string name="vocabulary_game">Vocabulary Game</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Try again!</string>
+    <string name="next">Next</string>
+    <string name="score">Score: %1$d</string>
+    <string name="match_the_pairs">Match the pairs</string>
+    <string name="choose_the_correct_answer">Choose the correct answer</string>
+    <string name="write_the_answer">Write the answer</string>
+    <string name="submit">Submit</string>
+    <string name="back_to_menu">Back to Menu</string>
+</resources>
